@@ -2,5 +2,5 @@
 
 int capped_rand(int cap)
 {
-  return rand() % cap;
+  return rand() / cap;
 }
