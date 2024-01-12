@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include "input.h"
+
 int get_cap()
 {
   int cap = 0;

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-extern int capped_rand(int);
-extern int get_cap(void);
+#include "input.h"
+#include "random.h"
 
 int main()
 {
